@@ -1,0 +1,36 @@
+@media (width >= 768px){
+  .header {
+    height: 40vh;
+  }
+
+    .nav__close,
+.nav__open {
+  display: none;
+}
+    .nav__items {
+        display: flex;
+        flex-direction: unset;
+        align-items: unset;
+        justify-content: unset;
+        position: unset;
+        padding: unset;
+        background-color: unset;
+        width: unset;
+        max-width: unset;
+        right: unset;
+        height: unset;
+        border-radius: unset;      
+        top: unset;    
+        transform: unset;
+        transition: unset;
+        z-index: unset;
+      }
+      .nav__link{
+        color: #ffffff;
+        font-weight: 600;
+        margin-right: 1em;
+      }
+
+      
+    
+}
